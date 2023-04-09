@@ -38,10 +38,7 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/></a>    
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/></a>
 </p>
-<br><h3> 📈 &nbsp;Statistics:</h3>
-<p align="center">
-    <img  width="45%" src="https://github-readme-stats.vercel.app/api?username=yassine7h&show_icons=true&title_color=00ab41&icon_color=00ab41"/> &nbsp; &nbsp<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassine7h&layout=compact&title_color=00ab41"/>
-</p>
+<br>
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?section=footer&animation=twinkling&type=waving&color=0:83f28f,50:00ab41&height=100"/>
 </p>
