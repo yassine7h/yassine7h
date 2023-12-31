@@ -11,11 +11,10 @@
 ```yaml
 {
   name: "Yassine Tiatro",
-  age: 22,
-  located_in: "Agadir, Morocco",
+  age: 23,
+  located_in: "France",
   fields_of_interests: ["Web dev", "mobile dev", "DevOps"],
-  currently_learning: ["Spring, NestJS and React Native"],
-  hobbies: ["Gaming", "Billiard", "Walking"],
+  currently_learning: ["Spring, NestJS and Angular"],
 }
 ```
 
