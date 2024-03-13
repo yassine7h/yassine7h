@@ -14,7 +14,7 @@
   age: 23,
   located_in: "France",
   fields_of_interests: ["Web dev", "mobile dev", "DevOps"],
-  currently_learning: ["Spring, NestJS and Angular"],
+  currently_learning: ["Spring, Django and Angular"],
 }
 ```
 
