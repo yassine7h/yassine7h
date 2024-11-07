@@ -11,9 +11,9 @@
 ```yaml
 {
   name: "Yassine Tiatro",
-  age: 23,
+  age: 24,
   located_in: "France",
-  fields_of_interests: ["Web dev", "mobile dev", "DevOps"],
+  fields_of_interests: ["Web dev", "DevOps"],
   currently_learning: ["Spring, Django and Angular"],
 }
 ```
